@@ -1,0 +1,6 @@
+main: com.replantedtech.plugins.SnowballRoulette
+name: SnowballRoulette
+version: 1.0
+description: Throw a snowball and who knows what will happen!
+api-version: 1.15
+author: DrRedPanda
